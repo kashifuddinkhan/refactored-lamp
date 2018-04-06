@@ -1,1 +1,2 @@
 this teh feature file
+this is new line from git-vim
