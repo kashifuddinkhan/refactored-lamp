@@ -1,2 +1,2 @@
 this teh feature file
-this is new line from git-vim
+this is new line from git-vim..This is from local
